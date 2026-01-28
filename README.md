@@ -23,4 +23,4 @@ Home → Restaurant Menu → Item Details → Cart → Checkout → Order Confir
 - Figma (Wireframing & Prototyping)
 
 ## Prototype
-[Figma Prototype Link]([https://www.figma.com/design/kw9K1DXYtmXdzP30SK1ihT/Food-Delivery-App?node-id=0-1&t=jQrkjkLY51p2Ga24-1])
+[Figma Prototype Link](https://www.figma.com/design/kw9K1DXYtmXdzP30SK1ihT/Food-Delivery-App?node-id=0-1&t=jQrkjkLY51p2Ga24-1)
