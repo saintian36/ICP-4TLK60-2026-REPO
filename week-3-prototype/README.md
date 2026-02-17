@@ -25,4 +25,5 @@ The prototype was tested on a real mobile device to ensure:
 This stage confirmed that the design functions as a realistic, end-to-end mobile ordering experience rather than static UI screens.
 
 🎨 Tool: Figma  
-🔗 Prototype Link: *(add your Figma link here)*
+🔗 Prototype Link: (https://www.figma.com/design/kw9K1DXYtmXdzP30SK1ihT/Food-Delivery-App?node-id=72-110&t=cm2NU8nm2hKOPEyI-1)
+
