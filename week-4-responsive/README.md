@@ -25,3 +25,4 @@ Designed a fully responsive marketing landing page for the Food Delivery app acr
 The final result demonstrates responsive layout intelligence, ensuring the same content adapts effectively across screen sizes while maintaining usability and design consistency.
 
 🎨 Tool: Figma
+[Figma Prototype] [https://www.figma.com/proto/kw9K1DXYtmXdzP30SK1ihT/Food-Delivery-App?node-id=131-101&p=f&t=gtR7ST99UPdQCUxo-1&scaling=scale-down&content-scaling=fixed&page-id=77%3A427] 
