@@ -73,4 +73,4 @@ Uber Eats is a product of Uber Technologies Inc.
 
 View the full UX case study and redesign on Behance:
 
-🔗[https://www.behance.net/gallery/245261301/Uber-Eats-Checkout-Redesign]
+🔗(Uber Eats Redesign)[https://www.behance.net/gallery/245261301/Uber-Eats-Checkout-Redesign]
