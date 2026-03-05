@@ -5,7 +5,6 @@ This project redesigns the Uber Eats checkout experience to improve clarity, red
 
 The redesign focuses on simplifying pricing information, reducing visual clutter, and improving the hierarchy of the primary action.
 
----
 
 ## Problem
 
@@ -20,7 +19,6 @@ Key issues identified:
 - Pricing breakdown difficult to scan quickly
 - Primary CTA ("Place Order") not visually dominant
 
----
 
 ## Redesign Goals
 
@@ -45,16 +43,6 @@ Payment Method
 Primary CTA
 
 
-
-
-### Before
-
-
-### After
-(Add screenshot of redesigned checkout)
-
----
-
 ## Key Improvements
 
 - Reduced visual clutter by collapsing non-essential sections
@@ -62,7 +50,6 @@ Primary CTA
 - Improved visibility of the total price
 - Strengthened CTA placement and hierarchy
 
----
 
 ## Expected Impact
 
@@ -71,13 +58,11 @@ Primary CTA
 - Increased clarity around pricing
 - Stronger conversion flow
 
----
 
 ## Tools Used
 
 Figma – Wireframing and UI redesign
 
----
 
 ## Disclaimer
 
