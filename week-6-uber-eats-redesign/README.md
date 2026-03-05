@@ -68,3 +68,9 @@ Figma – Wireframing and UI redesign
 
 This redesign is an independent conceptual project created for learning and portfolio purposes.  
 Uber Eats is a product of Uber Technologies Inc.
+
+## Behance Case Study
+
+View the full UX case study and redesign on Behance:
+
+🔗[https://www.behance.net/gallery/245261301/Uber-Eats-Checkout-Redesign]
